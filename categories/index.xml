@@ -6,26 +6,26 @@
     <description>Recent content in Categories on J.M.A. Stough</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>syntax</title>
-      <link>//localhost:1313/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Doom</title>
+      <link>//localhost:1313/categories/doom/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/syntax/</guid>
+      <guid>//localhost:1313/categories/doom/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>//localhost:1313/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Games</title>
+      <link>//localhost:1313/categories/games/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/themes/</guid>
+      <guid>//localhost:1313/categories/games/</guid>
       <description></description>
     </item>
     
