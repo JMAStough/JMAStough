@@ -6,10 +6,19 @@
     <description>Recent content in Doom on J.M.A. Stough</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//localhost:1313/tags/doom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Doom?</title>
+      <link>//localhost:1313/blog/how-to-doom/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/how-to-doom/</guid>
+      <description>Summary  Download and unzip GZDoom Download and unzip game files Copy WAD files to GZDoom folder Start the Game Edit control settings Enjoy!  Materials Needed  A Windows computer (all software used here is compatible with Win, Mac, and Linux, but instructions will be Windows-specific) An internet connection A mouse with a scroll wheel (controlling a first-person shooter with a trackpad is doable, but makes playing a lot more difficult)  Introduction In my last post, I explained why I think that the original 1993 Doom is a good first choice if you are interested in learning how to play video games for the first time, especially on the computer as opposed to a video game console.</description>
+    </item>
     
     <item>
       <title>Why Doom?</title>

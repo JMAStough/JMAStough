@@ -6,7 +6,7 @@
     <description>Recent content in Tags on J.M.A. Stough</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Doom</title>
       <link>//localhost:1313/tags/doom/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tags/doom/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Games</title>
       <link>//localhost:1313/tags/games/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>//localhost:1313/tags/install/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/install/</guid>
       <description></description>
     </item>
     
